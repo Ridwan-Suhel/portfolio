@@ -1,2 +1,2 @@
 # portfolio
-This is my personal portfolio website. click here to visite. https://ridwan-suhel.github.io/portfolio/
+personal portfolio website. (old version) click here to visite. https://ridwan-suhel.github.io/portfolio/
